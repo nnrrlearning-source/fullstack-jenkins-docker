@@ -45,6 +45,7 @@ export default function Page() {
     <main className="container">
       <header className="header">
         <h1 className="title">Attractions</h1>
+        <h1 className="title">Noui_appops_example</h1>
         <p className="subtitle">Discover points of interest nearby</p>
       </header>
 
